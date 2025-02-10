@@ -6,6 +6,7 @@ Modular, refillable, 3d printed notebook design
 - 1.75mm filament for hinge pin
 - Rubber band for paper retention
 - Refillable with any available paper
+- Split design option for smaller printers
  
 ![](https://github.com/wingfieldjeff/open_notebook/blob/main/images/open.jpg)
 
